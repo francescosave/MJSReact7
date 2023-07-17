@@ -1,6 +1,11 @@
 # Lection 1
 
 To run the first lesson launch the command:
+___________________________________________
 
-```cd lezione1```
-```node app.js```
+```ps
+cd lezione1
+```
+```ps
+node app.js
+```
