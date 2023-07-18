@@ -1,0 +1,13 @@
+1- Usare il metodo reduce per emulare il metodo every, esempio
+[1, false, 3, undefined, 5].reduce( … ) deve ritornare false
+[1, 5, 3, true].reduce( … ) deve ritornare true
+
+2- Usare il metodo reduce per emulare il metodo some, esempio
+[1,false,3].reduce( … ) deve ritornare true
+[false, null, undefined].reduce( … ) deve ritornare false
+
+3- Usare il metodo reduce per emulare il metodo map, esempio
+(raddoppio) [1,2,3,4].reduce( … ) deve ritornare [2,4,6,8]
+
+4- Usare il metodo reduce per emulare il metodo filter, esempio
+(filtro per pari) [1,2,3,4,5,6].reduce( … ) deve ritornare [2,4,6]
