@@ -30,6 +30,11 @@ console.log([1, 2, 3, 4].reduce((acc, el, idx) => {
 }), arr);
 */
 
+/*
+3- Usare il metodo reduce per emulare il metodo map, esempio
+(raddoppio) [1,2,3,4].reduce( … ) deve ritornare [2,4,6,8]
+*/
+
 [1,2,3,4].reduce((acc, el) => arr.push(el * 2),arr = []);
 console.log(arr);
 
